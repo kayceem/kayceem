@@ -1,3 +1,5 @@
 [![Kayc](https://github-readme-stats.vercel.app/api?username=kayceem&count_private=true&show_icons=true&theme=onedark)](https://github.com/kayceem/kayceem)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayceem&count_private=true)](https://github.com/kayceem/kayceem)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kayceem/langs)](https://githubtrends.io)
